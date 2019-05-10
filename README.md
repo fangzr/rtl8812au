@@ -2,6 +2,7 @@
 
 - 版本：4.3.20
 - 下载：`git clone git@github.com:fangzr/rtl8812au.git`
+- 内核版本：4.90
 
 ##### 编译步骤
 1. 解压源码包，在此路径打开终端，修改`Makefile`两处地方，如下所示：
